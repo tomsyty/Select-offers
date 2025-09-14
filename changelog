@@ -1,2 +1,5 @@
 [2024-08-29] v1.0.1:
 - przystosowano do nowej strony Sales Center
+[2025-09-14] v1.0.2:
+- poprawiono wyświetlanie komunikatów w postaci dymków (widoczność nad paskiem edycji grupowej)
+- poprawiono kompatybilność z innymi rozszerzeniami
